@@ -35,5 +35,40 @@ function saklar(action, lamp){
         lampu3.src = "assets/images/on.gif" ;
     } else {
         lampu3.src = "assets/images/off.gif" ;
-    }        
+    }  
+    if (toggle4.checked) {
+        lampu4.src = "assets/images/on.gif" ;
+    } else {
+        lampu4.src = "assets/images/off.gif" ;
+        }
+    if (toggle5.checked) {
+        lampu5.src = "assets/images/on.gif" ;
+    } else {
+        lampu5.src = "assets/images/off.gif" ;
+    }    
+    if (toggle6.checked) {
+        lampu6.src = "assets/images/on.gif" ;
+    } else {
+        lampu6.src = "assets/images/off.gif" ;
+    }
+    if (toggle7.checked) {
+        lampu7.src = "assets/images/on.gif" ;
+    } else {
+        lampu7.src = "assets/images/off.gif" ;
+        }
+    if (toggle8.checked) {
+        lampu8.src = "assets/images/on.gif" ;
+    } else {
+        lampu8.src = "assets/images/off.gif" ;
+    }    
+    if (toggle9.checked) {
+        lampu9.src = "assets/images/on.gif" ;
+    } else {
+        lampu9.src = "assets/images/off.gif" ;
+    } 
+    if (toggle10.checked) {
+        lampu10.src = "assets/images/on.gif" ;
+    } else {
+        lampu10.src = "assets/images/off.gif" ;
+    }     
 }
